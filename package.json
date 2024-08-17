@@ -1,0 +1,22 @@
+{
+  "name": "svg-logo-generator-2",
+  "version": "1.0.0",
+  "description": "A logo generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SVG-Logo-Generator"
+  },
+  "author": "mandersoni",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
