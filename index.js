@@ -17,7 +17,7 @@ const Logo = require('./lib/logo');
         type: 'list',
         name: 'shape',
         message: 'Pick a logo shape',
-        choices: ['circle','square', 'triangle'],
+        choices: ['Circle','Square', 'Triangle'],
     },
     {
         type: 'input',
